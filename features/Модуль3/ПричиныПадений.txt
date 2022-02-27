@@ -1,0 +1,27 @@
+
+#1_970001 filling in test data base
+Не удалось перейти по навигационной ссылке.
+Причина - модальное окно с ошибкой, возникшей на предыдущем шаге.
+
+#1_015450 check message output for SO when trying to create a purchase order/SC
+Ожидалось увидеть в таблице BasisesTree количество строк=0, а нашлось 2.
+
+#1_0154149 create Cash statement
+Не смогли перейти к строке формы списка List, т.к. из-за ошибки на предыдущем шаге осталась открыта другая форма.
+
+#1_092003 check serial lot number in the Retail return receipt
+Данные табличного документа отличаются от ожидаемого результата. Ррасхождения в колонках Period и Branch.
+
+#1_024027 cancel line in the SO and create SI
+Не удалось нажать кнопку "Sales invoice".
+Причина - на предыдущем шаге проведение документа завершилось ошибкой с появлением модального окна ошибки.
+ 
+#1_024004 create SI using form link/unlink
+Не удалось перейти к требуемой строке таблицы BasisesTree, т.к. такой строки в таблице нет.
+Ожадали строку
+Currency    Price   Quantity    Row presentation    Unit    Use
+TRY         350,00  7,000       Shirt (36/Red)      pcs     No
+
+ #2_2060018 check link form in the PI with 2 lines with the same items
+ Не удалось перейти к требуемой строке таблицы, т.к. таблица пуста.
+ 
