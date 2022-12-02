@@ -1,0 +1,1 @@
+vrunner vanessa --settings .\tools\env.json

@@ -1,0 +1,1 @@
+vrunner syntax-check --settings .\tools\env.json
